@@ -1,8 +1,10 @@
-![image](http://jenkins-contrib-themes.github.io/jenkins-material-theme/images/logo.svg)
-# jenkins-material-theme [![Build Status](https://travis-ci.org/jenkins-contrib-themes/jenkins-material-theme.svg?branch=master)](https://travis-ci.org/jenkins-contrib-themes/jenkins-material-theme)
+![image](http://afonsof.com/jenkins-material-theme/images/logo.svg)
+# jenkins-material-theme [![Build Status](https://travis-ci.org/afonsof/jenkins-material-theme.svg?branch=master)](https://travis-ci.org/afonsof/jenkins-material-theme)
 Beautify your Jenkins with the Material Design theme!
 
-Website: http://jenkins-contrib-themes.github.io/jenkins-material-theme
+<a href='https://pledgie.com/campaigns/32522'><img alt='Click here to lend your support to: Jenkins Material Theme and make a donation at pledgie.com !' src='https://pledgie.com/campaigns/32522.png?skin_name=chrome' border='0' ></a>
+
+Website: http://afonsof.com/jenkins-material-theme
 
 So you love **Jenkins** but hate its ugly user interface and icons... Me too! Introducing **Jenkins Material Theme**.
 You can turn your favorite frog CI tool into a handsome prince in few steps!   
@@ -14,8 +16,8 @@ You can turn your favorite frog CI tool into a handsome prince in few steps!
 * Customize the color and logo using the [generator][generator]
 
 ## Screenshots
-[![Screenshot jenkins-material-theme main](http://jenkins-contrib-themes.github.io/jenkins-material-theme/images/screenshot-jenkins-theme-material-main.png)](http://jenkins-contrib-themes.github.io/jenkins-material-theme/images/screenshot-jenkins-theme-material-main-large.png)      [![Screenshot jenkins-material-theme legend](http://jenkins-contrib-themes.github.io/jenkins-material-theme/images/screenshot-jenkins-theme-material-legend.png)](http://jenkins-contrib-themes.github.io/jenkins-material-theme/images/screenshot-jenkins-theme-material-legend-large.png) [![Screenshot jenkins-material-theme console](http://jenkins-contrib-themes.github.io/jenkins-material-theme/images/screenshot-jenkins-theme-material-console.png)](http://jenkins-contrib-themes.github.io/jenkins-material-theme/images/screenshot-jenkins-theme-material-console-large.png)
-[![Screenshot jenkins-material-theme history](http://jenkins-contrib-themes.github.io/jenkins-material-theme/images/screenshot-jenkins-theme-material-history.png)](http://jenkins-contrib-themes.github.io/jenkins-material-theme/images/screenshot-jenkins-theme-material-history-large.png)
+[![Screenshot jenkins-material-theme main](http://afonsof.com/jenkins-material-theme/images/screenshot-jenkins-theme-material-main.png)](http://afonsof.com/jenkins-material-theme/images/screenshot-jenkins-theme-material-main-large.png)      [![Screenshot jenkins-material-theme legend](http://afonsof.com/jenkins-material-theme/images/screenshot-jenkins-theme-material-legend.png)](http://afonsof.com/jenkins-material-theme/images/screenshot-jenkins-theme-material-legend-large.png) [![Screenshot jenkins-material-theme console](http://afonsof.com/jenkins-material-theme/images/screenshot-jenkins-theme-material-console.png)](http://afonsof.com/jenkins-material-theme/images/screenshot-jenkins-theme-material-console-large.png)
+[![Screenshot jenkins-material-theme history](http://afonsof.com/jenkins-material-theme/images/screenshot-jenkins-theme-material-history.png)](http://afonsof.com/jenkins-material-theme/images/screenshot-jenkins-theme-material-history-large.png)
 
 
 ## Installation 
@@ -23,9 +25,9 @@ You can turn your favorite frog CI tool into a handsome prince in few steps!
 ### Using this GitHub page (recommended) (auto-updated)
 
 1. Choose your color:
-![image](http://jenkins-contrib-themes.github.io/jenkins-material-theme/images/pallete.png)
+![image](http://afonsof.com/jenkins-material-theme/images/pallete.png)
 
-2. Replace `{{your-color-name}}` in the URL by the chosen color: `https://jenkins-contrib-themes.github.io/jenkins-material-theme/dist/material-{{your-color-name}}.css`
+2. Replace `{{your-color-name}}` in the URL by the chosen color: `https://cdn.rawgit.com/afonsof/jenkins-material-theme/gh-pages/dist/material-{{your-color-name}}.css`
 
 3. Install [Jenkins Simple Theme Plugin][simple]
 
@@ -95,7 +97,7 @@ If you are experiencing issues please let me know! Also, feel free to contribute
 ## License
 http://afonsof.mit-license.org/
 
-##Thanks to
+## Thanks to
 - [Simple Theme Plugin][simple] for the Simple Theme plugin
 - [Google][google] for the the material design inspiration and the icons
 - [Material Design Icons][material-design-icons] for some extra icons
@@ -110,5 +112,5 @@ http://afonsof.mit-license.org/
 [stylish]: https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe
 [canon-jenkins]: https://github.com/rackerlabs/canon-jenkins
 [heldroe]: https://github.com/Heldroe
-[generator]: http://jenkins-contrib-themes.github.io/jenkins-material-theme
+[generator]: http://afonsof.com/jenkins-material-theme
 [bootstraponline]: https://github.com/bootstraponline
